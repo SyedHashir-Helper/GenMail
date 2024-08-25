@@ -1,0 +1,4 @@
+streamlit
+groq
+streamlit-quill
+streamlit-drawable-canvas
